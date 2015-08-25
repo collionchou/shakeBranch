@@ -23,7 +23,7 @@
     NSLog(@"wocaonidayebbbbb");
     NSLog(@"123");
     NSLog(@"kabi");
-
+    NSLog(@"tiaoshinimei");
 }
 
 - (void)didReceiveMemoryWarning {
