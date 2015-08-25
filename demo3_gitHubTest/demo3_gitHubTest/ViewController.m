@@ -18,7 +18,11 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"zhazha");
-    NSLog(@"...");
+    NSLog(@"wonima");
+    NSLog(@"tadaye");
+    NSLog(@"wocaonidayebbbbb");
+    NSLog(@"123");
+    NSLog(@"kabi");
 
 }
 
