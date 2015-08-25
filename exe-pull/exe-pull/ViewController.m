@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  demo3_gitHubTest
+//  exe-pull
 //
 //  Created by tarena2033 on 15/8/25.
 //  Copyright (c) 2015年 tarena. All rights reserved.
@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"wonima");
+    // Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning {
